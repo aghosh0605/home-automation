@@ -30,11 +30,21 @@ Welcome to the ESPHome repository! This project aims to integrate various ESP826
 4. Verify and flash Your Device
 5. Integrate with Home Assistant
 
+## Example Configurations
+
+All the required documentation links can be found in the below resources section.
+
+### [Switchboard Automation](./switchboard.yaml)
+
+![Switchboard Diagram](./images/switchboard_bb.png)
+
 ## Resources
 
 - [ESPHome Documentation](https://esphome.io/)
 - [Home Assistant Documentation](https://www.home-assistant.io/docs/)
-- [ESPHome Community](https://community.home-assistant.io/c/projects/esphome/)
+- [ESPHome Community](https://community.home-assistant.io/c/esphome/)
+- [ESPHome Logger Component](https://esphome.io/components/logger.html)
+- [ESPHome Switch Component](https://esphome.io/components/switch/index.html)
 
 ## Contributing
 
