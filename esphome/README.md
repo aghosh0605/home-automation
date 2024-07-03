@@ -28,7 +28,7 @@ Welcome to the ESPHome repository! This project aims to integrate various ESP826
 2. Create your Node with ESP8266 or ESP32
 3. Edit Your Configuration according to your needs
 4. Verify and flash Your Device
-5. Integrate with Home Assistant
+5. Integrate with Home Assistant and add it into your room
 
 ## Example Configurations
 
@@ -36,7 +36,8 @@ All the required documentation links can be found in the below resources section
 
 ### [Switchboard Automation](./switchboard.yaml)
 
-![Switchboard Diagram](./images/switchboard_bb.png)
+<img src="./images/switchboard_bb.png" width="170" height="200" />
+<img src="./images/switchboard-dashboard.png" width="250" height="200" />
 
 ## Resources
 
