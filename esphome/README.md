@@ -36,8 +36,10 @@ All the required documentation links can be found in the below resources section
 
 ### [Switchboard Automation](./switchboard.yaml)
 
+<p float="left" align="middle">
 <img src="./images/switchboard_bb.png" width="170" height="200" />
 <img src="./images/switchboard-dashboard.png" width="250" height="200" />
+</p>
 
 ## Resources
 
